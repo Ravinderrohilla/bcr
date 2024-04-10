@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
+
+    <!-- Lato -->
     <family customizationType="new-named-family" name="lato">
         <font weight="400" style="normal">Lato-Regular.ttf</font>
         <font weight="400" style="italic">Lato-Italic.ttf</font>
@@ -11,6 +13,7 @@
     <alias name="lato-medium" to="lato" weight="500" />
     <alias name="lato-bold" to="lato" weight="700" />
 
+    <!-- Rubik -->
     <family customizationType="new-named-family" name="rubik">
         <font weight="400" style="normal">Rubik-Regular.ttf</font>
         <font weight="400" style="italic">Rubik-Italic.ttf</font>
@@ -21,4 +24,5 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+
 </fonts-modification>
