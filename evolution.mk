@@ -154,8 +154,19 @@ PRODUCT_PACKAGES += \
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
+    IconShapeCloudyOverlay \
+    IconShapeCylinderOverlay \
+    IconShapeFlowerOverlay \
+    IconShapeHeartOverlay \
+    IconShapeIosOverlay \
+    IconShapeLeafOverlay \
     IconShapePebbleOverlay \
+    IconShapeRohieMeowOverlay \
+    IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
+    IconShapeSamsungOverlay \
+    IconShapeScrollOverlay \
+    IconShapeStretchedOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
     IconShapeTaperedRectOverlay \
