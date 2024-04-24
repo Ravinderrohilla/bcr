@@ -80,6 +80,7 @@ PRODUCT_PACKAGES += \
     ClockFontPinewoodOverlay \
     ClockFontPlaidEventOverlay \
     ClockFontPlantsLettersOverlay \
+    ClockFontPlayOverlay \
     ClockFontQuandoOverlay \
     ClockFontQuickSouthOverlay \
     ClockFontRedressedOverlay \
@@ -128,6 +129,7 @@ PRODUCT_PACKAGES += \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
     FontOswaldOverlay \
+    FontPlayOverlay \
     FontQuandoOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
