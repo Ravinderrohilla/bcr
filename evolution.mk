@@ -331,7 +331,9 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
-    LineageNavigationBarNoHint
+    LineageNavigationBarNoHint \
+    NavBarGesturalNarrowSpaceOverlay \
+    NavBarGesturalNoSpaceOverlay
 
 # Navbar styles
 PRODUCT_PACKAGES += \
