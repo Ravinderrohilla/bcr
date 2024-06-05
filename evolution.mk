@@ -329,6 +329,26 @@ PRODUCT_PACKAGES += \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderAcunOverlay \
+    BrightnessSliderBangOverlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderGradiantOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderLightyOverlay \
+    BrightnessSliderLineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderNeumorphOverlay \
+    BrightnessSliderOldSchoolThumbOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderThumbSliderOverlay \
+    BrightnessSliderTranslucentOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
     LineageNavigationBarNoHint \
