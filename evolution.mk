@@ -346,7 +346,6 @@ PRODUCT_PACKAGES += \
     BrightnessSliderOldSchoolThumbOverlay \
     BrightnessSliderOutlineOverlay \
     BrightnessSliderRoundedClipOverlay \
-    BrightnessSliderShadedOverlay \
     BrightnessSliderThinOverlay \
     BrightnessSliderThumbSliderOverlay \
     BrightnessSliderTranslucentOverlay
