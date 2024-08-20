@@ -386,7 +386,7 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    LineageBlackTheme
+    AndroidBlackThemeOverlay
 
 # Udfps
 ifeq ($(TARGET_HAS_UDFPS),true)
