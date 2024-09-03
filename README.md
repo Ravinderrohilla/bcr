@@ -1,5 +1,7 @@
 ## Add In Rom
 
+clone this repo in vendor/bcr directory of your project
+
 Add This Line In device.mk
 
 $(call inherit-product, vendor/bcr/bcr.mk)
@@ -11,7 +13,7 @@ $(call inherit-product, vendor/bcr/bcr.mk)
 
 ## Features
 
-* Supports Android 9 through 13
+* Supports Android 9 through 13 ? is it ?
 * Supports output in various formats:
   * OGG/Opus - Lossy, smallest files, default on Android 10+
   * M4A/AAC - Lossy, smaller files, default on Android 9
