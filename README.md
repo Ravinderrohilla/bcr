@@ -2,6 +2,8 @@
 
 clone this repo in vendor/bcr directory of your project
 
+git clone https://github.com/Ravinderrohilla/bcr.git vendor/bcr
+
 Add This Line In device.mk
 
 $(call inherit-product, vendor/bcr/bcr.mk)
